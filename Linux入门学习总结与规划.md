@@ -28,4 +28,14 @@
 
 [速查表](https://www.doubao.com/thread/a6fb48475b70f)
 
+#### 基础入门
 
+- 什么是 Linux：开源、多用户、多任务的操作系统内核
+
+- 常见发行版：Ubuntu（易用）、CentOS/RHEL（企业级）、Debian（稳定）、Arch（滚动更新）
+
+- WSL：Windows Subsystem for Linux，在 Windows 中直接运行 Linux 环境
+
+[linux入门视频](https://www.bilibili.com/video/BV1LV411j7H3)
+
+### 学习资料：豆包 哔哩哔哩 google ubuntu git github
