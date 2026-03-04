@@ -49,4 +49,4 @@ Git是众多版本控制系统中的一种还包括CVS,Subversion,Mecurial,Perfo
 
 [git常用命令](https://www.doubao.com/thread/aa95eaf98ac9a)
 
-![](git_flow.png)
+![](C:\Users\word\AppData\Roaming\marktext\images\2026-03-02-18-16-45-屏幕截图%202026-03-02%20181221.png)
